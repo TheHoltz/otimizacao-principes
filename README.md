@@ -109,7 +109,7 @@ ggplot(dados, aes(x=princesas,y=melhor_pulo)) +
   geom_smooth(method = lm, col="red")
 ```
 
-![1566157296855](C:\Users\r3g3n3r4\AppData\Roaming\Typora\typora-user-images\1566157296855.png)
+![1566157296855](blob:https://imgur.com/41ee7a67-1587-4e37-933d-93f05bb0aee5)
 
 Fazendo uma análise do gráfico de dispersão, pode se ver a alta correlação entre a quantidade de candidatos e o melhor pulo, pode se perceber também que ao passo de que se aumenta o número de príncipes, a variabilidade do melhor pulo também. Em conclusão, uma boa fórmula em função das simulações para encontrar o melhor pulo é dada por: ***0.6395960+0.3721541\*n_príncipes***
 
