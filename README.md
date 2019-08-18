@@ -124,4 +124,4 @@ predictMelhorPulo <- function(x)
 }
 ```
 
-Esperamos ter ajudado na vida da princesa e contribuído a você leitor, com algumas dicas de otimização com o R.
+Espero ter ajudado na vida da princesa e contribuído a você leitor, com algumas dicas de otimização com o R, pois, todas as funções foram trabalhadas para se chegar nos resultados tentando utilizar o menor custo computacional.
